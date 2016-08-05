@@ -1,0 +1,12 @@
+UPDATE BigTable
+SET Location_ID = (SELECT Location_ID from Location WHERE BigTable.Location_ID_Old = Location.Location_ID_Old);
+
+UPDATE Char_Info
+SET Length = (SELECT Length from Length WHERE Char_Info.Length_ID = Length.Length_ID);
+
+
+UPDATE BigTable
+SET Name_Pron = (SELECT Name_Pron from Discovery WHERE BigTable.Discovery_ID_Old = Discovery.Discovery_ID_Old);
+
+UPDATE BigTable
+SET Discovery_ID = (SELECT Discovery_ID from Discovery WHERE BigTable.Discovery_ID_Old = Discovery.Discovery_ID_Old);

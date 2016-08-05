@@ -1,0 +1,332 @@
+Discovery_ID,Discovered_By,Date_Of_Discovery
+1,Ryan,2007
+2,Ritgen,1826
+3,Mantell,1833
+4,Meyer,1837
+5,Eudes-Deslongchamps,1838
+6,Morris,1843
+7,Mantell,1850
+8,Owen,1854
+9,Leidy,1856
+10,Meyer,1857
+11,Leidy,1858
+12,Wagner,1859
+13,Mayer,1861
+14,Cope,1866
+15,Huxley,1866
+16,Owen,1868
+17,Matheron,1869
+18,Huxley,1869
+19,Matherton,1869
+20,Phillips,1871
+21,Bunzel,1871
+22,Marsh,1877
+23,Marsh,1877
+24,Cope,1877
+25,Marsh,1877
+26,Marsh,1877
+27,Marsh,1878
+28,Marsh,1879
+29,Boulenger and van Beneden,1881
+30,Hulke,1881
+31,Marsh,1884
+32,Marsh,1885
+33,Marsh,1885
+34,Marsh,1888
+35,Marsh,1889
+36,Marsh,1889
+37,Marsh,1890
+38,Marsh,1890
+39,Marsh,1891
+40,Marsh,1891
+41,Lydekker,1893
+42,Marsh,1894
+43,Seeley,1898
+44,Nopcsa,1900
+45,Lucas,1902
+46,Lambe,1902
+47,Nopcsa,1902
+48,Riggs,1903
+49,Hatcher,1903
+50,Lull,1905
+51,Osborn,1905
+52,Brown,1908
+53,Brown,1910
+54,Woodward,1910
+55,Huene,1910
+56,Talbot,1911
+57,Brown,1912
+58,Brown,1913
+59,Fraas,1913
+60,Lambe,1913
+61,Gilmore,1913
+62,Lamb,1914
+63,Brown,1914
+64,Gilmore,1914
+65,Brown,1914
+66,Janensch,1914
+67,Janensch,1914
+68,Lamb,1914
+69,Lambe,1914
+70,Brown,1914
+71,Hennig,1915
+72,Nopcsa,1915
+73,Stromer,1915
+74,Maleev,1915
+75,Brown,1916
+76,Lambe,1917
+77,Osborn,1917
+78,Lambe,1919
+79,Janensch,1920
+80,Andrews,1921
+81,Gilmore,1922
+82,Matthew and Brown,1922
+83,Parks,1922
+84,Parks,1923
+85,Osborn,1923
+86,Granger and Gregory,1923
+87,Osborn,1923
+88,Gilmore,1924
+89,Haughton,1924
+90,Haughton,1924
+91,Osborn,1924
+92,Osborn,1924
+93,Osborn,1924
+94,Parks,1925
+95,Parks,1926
+96,Longman,1926
+97,von Huene,1927
+98,Sternberg,1928
+99,Haughton,1928
+100,von Huene,1929
+101,Wiman,1929
+102,Wiman,1929
+103,Stromer,1931
+104,Stromer,1932
+105,Gilmore,1933
+106,Longman,1933
+107,Gilmore,1933
+108,Huene and Matley,1933
+109,Osbourne,1933
+110,Gilmore,1933
+111,Huene,1934
+112,Nagao,1936
+113,Camp,1936
+114,Sternberg,1937
+115,Riabinin,1939
+116,Young,1939
+117,Young,1941
+118,Young,1942
+119,Brown and Schlaikjer,1943
+120,Sereno | Wilson | Larsson | Dutheil and Sues,1944
+121,Gilmore,1946
+122,Cabrera,1947
+123,Stovall and Langston,1950
+124,Sternberg,1950
+125,Maleev,1952
+126,C. M. Sternberg,1953
+127,Bohlin,1953
+128,Young,1954
+129,Lavocat,1954
+130,Maleev,1955
+131,Maleev,1956
+132,Hoffstetter,1957
+133,Young,1958
+134,Young,1959
+135,Xu | Makovicky | Wang | Norell and You,1960
+136,Eaton,1960
+137,Crompton and Charig,1962
+138,Reig,1963
+139,Walker,1964
+140,Walker,1964
+141,Rozhdestvensky,1966
+142,Casamiquela,1967
+143,Rozhdestvensky,1968
+144,Ostrom,1969
+145,Bonaparte,1969
+146,Raath,1969
+147,Russell,1970
+148,Osmólska and Roniewicz,1970
+149,Ostrom,1970
+150,Colbert,1970
+151,Ostrom,1970
+152,Nowinski,1971
+153,Russell,1972
+154,Dutuit,1972
+155,Osmólska | Roniewicz and Barsbold,1972
+156,Raath,1972
+157,Hu,1973
+158,Dong | Li | Zhou and Zhang,1973
+159,Dong,1973
+160,Corro,1974
+161,Maryańska and Osmólska,1974
+162,Maryańska and Osmólska,1974
+163,Maryańska and Osmólska,1974
+164,Maryanska and Osmolska,1975
+165,Jain | Kutty | Roy-Chowdhury and Chatterjee,1975
+166,Yeh,1975
+167,Galton,1975
+168,Kurzanov,1976
+169,Madsen,1976
+170,Taquet,1976
+171,Borsuk-Bialynicka,1977
+172,Maryañska,1977
+173,Bonaparte,1978
+174,Galton,1978
+175,Dong,1978
+176,Dong | Chang | Li and Zhou,1978
+177,Yadagiri and Ayyasami,1979
+178,Brett-Surman,1979
+179,Horner and Makela,1979
+180,Sues & Taquet,1979
+181,Bonaparte and Vince,1979
+182,Dong,1979
+183,Bonaparte,1979
+184,Bonaparte,1979
+185,Brett-Surman,1979
+186,Perle,1979
+187,Galton and Jensen,1979
+188,He,1979
+189,Perle vide Barsbold and Perle,1980
+190,Molnar,1980
+191,Bonaparte and Powell,1980
+192,Bonaparte and Powell,1980
+193,Sues,1980
+194,Kurzanov,1981
+195,Barsbold,1981
+196,Barsbold,1981
+197,Bartholomai and Molnar,1981
+198,Colbert,1981
+199,Perle | Maryańska and Osmólska,1982
+200,Dong | Tang and Zhou,1982
+201,Dong | Zhou and Zhang,1983
+202,Kurzanov and Bannikov,1983
+203,Tumanova,1983
+204,Dong | Zhou and Zhang,1983
+205,Galton and Sues,1983
+206,Dong and Tang,1984
+207,Barsbold and Perle,1984
+208,Bonaparte and Novas,1985
+209,Bonaparte,1985
+210,Dong and Tang,1985
+211,Jansen,1985
+212,Dodson,1986
+213,Barsbold,1986
+214,Bonaparte,1986
+215,Barsbold,1986
+216,Sanz | Buscalioni | Casanovas and Sanafé,1987
+217,Dong and Azuma,1987
+218,Charig and Milner,1987
+219,Osmólska,1987
+220,Barsbold,1988
+221,Paul,1988
+222,Yadagiri,1988
+223,Horner and Weishampel,1988
+224,Rich and Rich,1989
+225,Rich and Rich,1989
+226,Peng,1990
+227,Dong and Azuma,1990
+228,Bai | Yang and Wang,1990
+229,Bonaparte,1991
+230,Salgado and Bonaparte,1991
+231,Haubold,1991
+232,Wild,1991
+233,Gillette,1991
+234,Gao,1992
+235,Kurzanov,1992
+236,Watanabe,1992
+237,Bonaparte and Coria,1993
+238,Sereno | Forster | Rogers and Monetta,1993
+239,Ezcurra and Cuny 2007,1993
+240,Zhao and Currie,1993
+241,Perle | Norell | Chiappe and Clark,1993
+242,Tumanova,1993
+243,Kirkland | Gaston and Burge,1993
+244,Hammer and Hickerson,1994
+245,Pérez-Moreno | Sanz | Buscalioni | Moratalla | Ortega and Rasskin-Gutman,1994
+246,Sampson,1995
+247,Le Loeuff,1995
+248,Galton,1995
+249,Long and Murry,1995
+250,Hou | Zhou | Gu and Zhang,1995
+251,Sampson,1995
+252,Coria and Salgado,1995
+253,Zhang and Yang,1995
+254,Sereno | Duthiel | Iarochene | Larsson | Lyon | Magwene | Sidor | Varricchio and Wilson,1996
+255,Coria and Salgado,1996
+256,Martill | Cruickshank | Frey | Small and Clarke,1996
+257,Hutt | Martill and Barker,1996
+258,Chure,1996
+259,Ji and Ji,1996
+260,Jain and Bandyopadhyay,1997
+261,Ji and Ji,1997
+262,Novas and Puerta,1997
+263,Ji | Currie | Norell and Ji.,1998
+264,Kirkland,1998
+265,Carpenter | Miles and Cloward,1998
+266,Kirkland,1998
+267,Head,1998
+268,Chiappe | Norell and Clark,1998
+269,Sereno | Beck | Dutheil | Gado | Larsson | Lyon | Marcot | Rauhut | Sadleir | Sidor | Varricchio | Wilson and Wilson,1998
+270,Wolfe and Kirkland,1998
+271,Perle | Norell and Clark,1999
+272,Xu | Tang and Wang,1999
+273,Zhao | Cheng and Xu,1999
+274,Bonaparte | Ferigolo and Ribeiro,1999
+275,Sereno | Beck | Dutheil | Larsson | Lyon | Moussa | Sadleir | Sidor | Varricchio | Wilson and Wilson,1999
+276,Hou and Chen,1999
+277,Taquet & Russell,1999
+278,Sereno | Beck | Dutheil | Larsson | Lyon | Moussa | Sadleir | Sidor | Varricchio | Wilson & Wilson,1999
+279,Xu | Wang and Wu,1999
+280,Burnham | Derstler | Currie | Bakker | Zhou and Ostrom,2000
+281,Azuma and Currie,2000
+282,Sereno,2000
+283,Xu | Zhou and Wang,2000
+284,Barsbold | Osmólska | Watabe | Currie and Tsogtbaatar,2000
+285,de Klerk | Forster | Sampson | Chinsamy and Ross,2000
+286,Carpenter | Kirkland | Burge and Bird,2001
+287,Clark | Norell and Barsbold,2001
+288,Hutt | Naish | Martill | Barker and Newberry,2001
+289,Vickaryous | Russell | Currie and Zhao,2001
+290,Carpenter | Miles and Cloward,2001
+291,Wang and Xu,2001
+292,Clark | Norell and Barsbold,2001
+293,Sampson | Carrano & Forster,2001
+294,Kirkland and Wolfe,2001
+295,Smith | Lamanna | Lacovara | Dodson | Smith | Poole | Giegengack and Attia,2001
+296,Coria | Chiappe and Dingus,2002
+297,Xu | Makovicky | Wang | Norell and You,2002
+298,Xu | Norell | Wang | Makovicky and Wu,2002
+299,You | Luo | Shubin | Witmer | Tang and Tang,2003
+300,Kobayashi and Azuma,2003
+301,Alifanov,2003
+302,Galton | Yates and Kermack 2007,2003
+303,Alifanov,2003
+304,Sereno | Wilson and Conrad,2004
+305,Rauhut | Remes | Fechner | Cladera and Puerta,2005
+306,Makovicky | Apesteguía & Agnolin,2005
+307,Allain,2005
+308,Zanno and Sampson,2005
+309,Salgado and Gasparini,2006
+310,Bakker | Sullivan | Porter | Larson and Saulsbury,2006
+311,Ksepka and Norell,2006
+312,Sander | Mateus | Laven and Knötschke,2006
+313,Xu | Clark | Forster | Norell | Erickson | Eberth | Jia and Zhao,2006
+314,Göhlich & Chiappe,2006
+315,Bonaparte | González Riga and Apesteguía,2006
+316,Coria and Currie,2006
+317,Kellner et al.,2006
+318,Xu | Zhang | Tan | Zhao and Tan,2006
+319,Xu | Forster | Clark and Mo,2006
+320,Lü | Li | Ji | Wang | Zhang and Dong,2006
+321,Varricchio | Marin and Katsura,2007
+322,Turner | Hwang and Norell,2007
+323,Ji | Ji | Lü and Yuan,2007
+324,Averianov and Sues,2007
+325,Yates | Bonnan | Neveling | Chinsamy and Blackbeard 2010,2009
+326,,
+327,,
+328,,
+329,,
+330,,
+331,,
